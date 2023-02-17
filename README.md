@@ -1,16 +1,7 @@
-# feb17
+# Challenge Feb17
 
-A new Flutter project.
+Challenge is to replicate a UI from behance.net in an hour
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Today -> https://www.behance.net/gallery/145537943/Ramni-Free-Mobile-App-UI-UX-Kit?tracking_source=search_projects%7Cmobile+app+ui
