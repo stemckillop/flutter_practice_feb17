@@ -9,5 +9,6 @@ Today -> https://www.behance.net/gallery/145537943/Ramni-Free-Mobile-App-UI-UX-K
 --- 
 
 Progress @ 1 Hour
-![Feb17-result-1](https://user-images.githubusercontent.com/5777655/219667790-fd3ad42c-073e-4f91-9735-19c621768c7b.png | width = 480)
-![Feb17-result-2](https://user-images.githubusercontent.com/5777655/219667805-a8d6b1a6-b026-48ee-b03f-b84980703bb6.png | width = 480)
+<br>
+<img src="https://user-images.githubusercontent.com/5777655/219667790-fd3ad42c-073e-4f91-9735-19c621768c7b.png" width="240">
+<img src="https://user-images.githubusercontent.com/5777655/219667805-a8d6b1a6-b026-48ee-b03f-b84980703bb6.png" width="240">
